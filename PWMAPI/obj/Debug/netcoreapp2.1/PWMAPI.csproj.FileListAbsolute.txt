@@ -1,0 +1,14 @@
+C:\Users\Akihito\source\repos\PWMAPI\PWMAPI\obj\Debug\netcoreapp2.1\PWMAPI.csprojAssemblyReference.cache
+C:\Users\Akihito\source\repos\PWMAPI\PWMAPI\obj\Debug\netcoreapp2.1\PWMAPI.csproj.CoreCompileInputs.cache
+C:\Users\Akihito\source\repos\PWMAPI\PWMAPI\obj\Debug\netcoreapp2.1\PWMAPI.RazorAssemblyInfo.cache
+C:\Users\Akihito\source\repos\PWMAPI\PWMAPI\obj\Debug\netcoreapp2.1\PWMAPI.RazorAssemblyInfo.cs
+C:\Users\Akihito\source\repos\PWMAPI\PWMAPI\obj\Debug\netcoreapp2.1\PWMAPI.AssemblyInfoInputs.cache
+C:\Users\Akihito\source\repos\PWMAPI\PWMAPI\obj\Debug\netcoreapp2.1\PWMAPI.AssemblyInfo.cs
+C:\Users\Akihito\source\repos\PWMAPI\PWMAPI\bin\Debug\netcoreapp2.1\PWMAPI.deps.json
+C:\Users\Akihito\source\repos\PWMAPI\PWMAPI\bin\Debug\netcoreapp2.1\PWMAPI.runtimeconfig.json
+C:\Users\Akihito\source\repos\PWMAPI\PWMAPI\bin\Debug\netcoreapp2.1\PWMAPI.runtimeconfig.dev.json
+C:\Users\Akihito\source\repos\PWMAPI\PWMAPI\bin\Debug\netcoreapp2.1\PWMAPI.dll
+C:\Users\Akihito\source\repos\PWMAPI\PWMAPI\bin\Debug\netcoreapp2.1\PWMAPI.pdb
+C:\Users\Akihito\source\repos\PWMAPI\PWMAPI\obj\Debug\netcoreapp2.1\PWMAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Akihito\source\repos\PWMAPI\PWMAPI\obj\Debug\netcoreapp2.1\PWMAPI.dll
+C:\Users\Akihito\source\repos\PWMAPI\PWMAPI\obj\Debug\netcoreapp2.1\PWMAPI.pdb

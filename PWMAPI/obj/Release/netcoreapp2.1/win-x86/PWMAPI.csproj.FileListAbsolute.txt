@@ -1,0 +1,17 @@
+C:\Users\Akihito\source\repos\PWMAPI\PWMAPI\bin\Release\netcoreapp2.1\win-x86\hostpolicy.dll
+C:\Users\Akihito\source\repos\PWMAPI\PWMAPI\bin\Release\netcoreapp2.1\win-x86\hostfxr.dll
+C:\Users\Akihito\source\repos\PWMAPI\PWMAPI\bin\Release\netcoreapp2.1\win-x86\PWMAPI.exe
+C:\Users\Akihito\source\repos\PWMAPI\PWMAPI\bin\Release\netcoreapp2.1\win-x86\PWMAPI.deps.json
+C:\Users\Akihito\source\repos\PWMAPI\PWMAPI\bin\Release\netcoreapp2.1\win-x86\PWMAPI.runtimeconfig.json
+C:\Users\Akihito\source\repos\PWMAPI\PWMAPI\bin\Release\netcoreapp2.1\win-x86\PWMAPI.runtimeconfig.dev.json
+C:\Users\Akihito\source\repos\PWMAPI\PWMAPI\bin\Release\netcoreapp2.1\win-x86\PWMAPI.dll
+C:\Users\Akihito\source\repos\PWMAPI\PWMAPI\bin\Release\netcoreapp2.1\win-x86\PWMAPI.pdb
+C:\Users\Akihito\source\repos\PWMAPI\PWMAPI\obj\Release\netcoreapp2.1\win-x86\PWMAPI.csprojAssemblyReference.cache
+C:\Users\Akihito\source\repos\PWMAPI\PWMAPI\obj\Release\netcoreapp2.1\win-x86\PWMAPI.csproj.CoreCompileInputs.cache
+C:\Users\Akihito\source\repos\PWMAPI\PWMAPI\obj\Release\netcoreapp2.1\win-x86\PWMAPI.RazorAssemblyInfo.cache
+C:\Users\Akihito\source\repos\PWMAPI\PWMAPI\obj\Release\netcoreapp2.1\win-x86\PWMAPI.RazorAssemblyInfo.cs
+C:\Users\Akihito\source\repos\PWMAPI\PWMAPI\obj\Release\netcoreapp2.1\win-x86\PWMAPI.AssemblyInfoInputs.cache
+C:\Users\Akihito\source\repos\PWMAPI\PWMAPI\obj\Release\netcoreapp2.1\win-x86\PWMAPI.AssemblyInfo.cs
+C:\Users\Akihito\source\repos\PWMAPI\PWMAPI\obj\Release\netcoreapp2.1\win-x86\PWMAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Akihito\source\repos\PWMAPI\PWMAPI\obj\Release\netcoreapp2.1\win-x86\PWMAPI.dll
+C:\Users\Akihito\source\repos\PWMAPI\PWMAPI\obj\Release\netcoreapp2.1\win-x86\PWMAPI.pdb
